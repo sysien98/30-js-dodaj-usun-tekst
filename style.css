@@ -1,0 +1,27 @@
+* {
+    background-color: lightblue;
+}
+h1 {
+    position: relative;
+    text-transform: uppercase;
+    color: darkblue;
+    font-size: 60px;
+    margin: 0;
+    text-align: center;
+}
+#dodaj,
+#usun {
+    color: darkblue;
+    border-radius: 4px;
+    background-color: white;
+    text-align: center;
+    padding: 5px 5px;
+    position: relative;
+    margin-left: 39%;
+    margin-right: -25%;
+    top: 30vh;
+}
+#tekst {
+    text-align: center;
+    text-decoration-color: darkblue;
+}
